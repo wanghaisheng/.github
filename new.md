@@ -3,7 +3,10 @@
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
-<h4>Hi I am Amaury 💇‍♂️ , a passoniate Mobile | Web Software developer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Flutter/Dart, iOS/Android, Javascript & React | React Native & Next.js Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi 👋, I'm heisen
+Automation is my thing.A passionate smart watch pm from China
+医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜，曾经高考英语136，毕业多年已成废柴，托福也没考过,尽量不要吐槽我蹩脚的表达
+Benjamin Franklin once said: “If you would not be forgotten as soon as you are dead, either write something worth reading, or do something worth writing.”.<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
